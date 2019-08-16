@@ -1,0 +1,519 @@
+[
+  {
+    "Sleight": "Charisma",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "Lowers inhibitions, boosts charm. +1 Moxie Pool."
+  },
+  {
+    "Sleight": "Control Behavior",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "Apply/reduce an Enhanced Behavior or Restricted Behavior (Level 2) trait."
+  },
+  {
+    "Sleight": "Eco-Empathy",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "May use COG Check to understand alien plant and fungus analogues."
+  },
+  {
+    "Sleight": "Enhanced Creativity",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "+10 to Know or Technical Tests involving creativity or thinking outside the box. Perfect memory recall."
+  },
+  {
+    "Sleight": "Grok",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "May use COG Check"
+  },
+  {
+    "Sleight": "Heightened Awareness",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "to understand how to use unfamiliar object/device. Sense area/threats. +10 Perceive Tests."
+  },
+  {
+    "Sleight": "High Pain Threshold",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "Ignore modifiers from 1 wound."
+  },
+  {
+    "Sleight": "Inner Spark",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "Recover +1 pool points during short recharges."
+  },
+  {
+    "Sleight": "Pattern Recognition",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "Detect patterns."
+  },
+  {
+    "Sleight": "Predictive Boost",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "+10 to appropriate Infosec, Perceive, or Research Tests."
+  },
+  {
+    "Sleight": "Psi Armor",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "+2 Initiative."
+  },
+  {
+    "Sleight": "Qualia",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "Mental armor equal to WIL ÷ 3. Increased understanding. +1 Insight Pool."
+  },
+  {
+    "Sleight": "Savant Calculation",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "May use COG Check to answer complex mathematical questions."
+  },
+  {
+    "Sleight": "Scramble",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "Hide from ego sense sleight; –30 modifier."
+  },
+  {
+    "Sleight": "Self Control",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "+10 WIL Check."
+  },
+  {
+    "Sleight": "Social Cunning",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "More manipulative. +10 to Persuade and Provoke Tests. Better physiological control."
+  },
+  {
+    "Sleight": "Somatic Control",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "+1 Vigor Pool."
+  },
+  {
+    "Sleight": "Superior Kinesics",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "+10 Deceive and Kinesics Tests."
+  },
+  {
+    "Sleight": "Xeno-Empathy",
+    "Level": "Chi",
+    "Duration": "Constant",
+    "Action": "Automatic",
+    "Description": "May use SAV Check to gain understanding of non-terrestrial life."
+  },
+  {
+    "Sleight": "Alter Effect",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 2,
+    "Description": "Increase or reduce the duration of a drug or toxin affecting the target by half."
+  },
+  {
+    "Sleight": "Animal Control",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Take over a non-sapient animal’s mind, teleoperate it like a drone."
+  },
+  {
+    "Sleight": "Aphasia",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target cannot speak, communicate, or read."
+  },
+  {
+    "Sleight": "Basilisk Stare",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Task",
+    "Modifier": 6,
+    "Description": "Target cannot break eye contact with async, both are immobilized."
+  },
+  {
+    "Sleight": "Block Pain",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Target can ignore wound modifiers."
+  },
+  {
+    "Sleight": "Block Sense",
+    "Level": "Gamma",
+    "Duration": "Action Turns",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Negates one of the target’s senses (hearing, sight, smell, taste, touch)."
+  },
+  {
+    "Sleight": "Block Skill",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "The target may not use a specified skill."
+  },
+  {
+    "Sleight": "Browse Thoughts",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Scan target’s surface thoughts."
+  },
+  {
+    "Sleight": "Burst of Adrenalin",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target receives +1 Vigor pool."
+  },
+  {
+    "Sleight": "Burst of Clarity",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target receives +1 Insight pool."
+  },
+  {
+    "Sleight": "Burst of Confidence",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target receives +1 Moxie pool."
+  },
+  {
+    "Sleight": "Cloud Memory",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target retains no long-term memories."
+  },
+  {
+    "Sleight": "Deep Scan",
+    "Level": "Gamma",
+    "Duration": "Sustaine",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Retrieve 2 items from target’s mind, +2 per superior success."
+  },
+  {
+    "Sleight": "Deja Vu",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 8,
+    "Description": "The target is forced to repeat their actions of the past 15–30 seconds."
+  },
+  {
+    "Sleight": "Downtime",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Task",
+    "Modifier": 2,
+    "Description": "4-hour fugue state heals 1d6 stress, +1d6 per superior success, gains influence effect."
+  },
+  {
+    "Sleight": "Ego Sense",
+    "Level": "Gamma",
+    "Duration": "Action Turns",
+    "Action": "Complex",
+    "Modifier": 2,
+    "Description": "Detect biological life; extra info on range, size, type, etc with superior successes."
+  },
+  {
+    "Sleight": "Empathic Scan",
+    "Level": "Gamma",
+    "Duration": "Action Turns",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Know target’s emotions. +10 to social skill tests against them, +10 per superior success."
+  },
+  {
+    "Sleight": "Illusion",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": 8,
+    "Description": "Target experiences full-sensory illusion crafted by async."
+  },
+  {
+    "Sleight": "Implant Memory",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Implant fake memory permanently in target."
+  },
+  {
+    "Sleight": "Implant Skill",
+    "Level": "Gamma",
+    "Duration": "Hours",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Implant skill possessed by async in target’s mind at half value."
+  },
+  {
+    "Sleight": "Induce Error",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "The target automatically fails the next test they make using skill chosen by async."
+  },
+  {
+    "Sleight": "Infectious Mind",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Share a triggered disorder or influence effect with the target."
+  },
+  {
+    "Sleight": "Influence",
+    "Level": "Gamma",
+    "Duration": "Action Turns",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Apply an Enhanced Behavior or Restricted Behavior (Level 2) trait."
+  },
+  {
+    "Sleight": "Invigorate",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "The target can expend their next complex action as a short recharge."
+  },
+  {
+    "Sleight": "Mimic",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Quick",
+    "Modifier": 4,
+    "Description": "Snapshot of target’s mannerisms; +10 Deceive skills to impersonate target, +10 per superior success."
+  },
+  {
+    "Sleight": "Mindlink",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Quick",
+    "Modifier": 2,
+    "Description": "Telepathy."
+  },
+  {
+    "Sleight": "Neural Hardening",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "The target receives a +10 modifier to resist basilisk hacks."
+  },
+  {
+    "Sleight": "Nightmare",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target takes SV 2d10, +1d6 per superior success, reduced by psi armor."
+  },
+  {
+    "Sleight": "Pain",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target inflicted with pain (like an agonizer), must flee at full movement on their next action."
+  },
+  {
+    "Sleight": "Psi Shield",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Mental armor increased by +1d6 (cumulative with Psi Armor sleight)."
+  },
+  {
+    "Sleight": "Psychic Stab",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target takes DV 2d10, +1d6 per superior success, reduced by mental armor."
+  },
+  {
+    "Sleight": "Sense Infection",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 2,
+    "Description": "Detect exsurgent infection in biological life."
+  },
+  {
+    "Sleight": "Short Circuit",
+    "Level": "Gamma",
+    "Duration": "Instant",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target’s synapses misfire, they are incapacitated for 1 turn and stunned for 3 minutes."
+  },
+  {
+    "Sleight": "Spam",
+    "Level": "Gamma",
+    "Duration": "Action Turns",
+    "Action": "Complex",
+    "Modifier": 6,
+    "Description": "Target overwhelmed by sensory input, –10 to all actions, with additional –10 per superior success."
+  },
+  {
+    "Sleight": "Static",
+    "Level": "Gamma",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "–30 to all sleights within close range."
+  },
+  {
+    "Sleight": "Subliminal",
+    "Level": "Gamma",
+    "Duration": "Hours",
+    "Action": "Complex",
+    "Modifier": 10,
+    "Description": "Implant suggested action in target’s mind that they must carry through."
+  },
+  {
+    "Sleight": "Tranqulity",
+    "Level": "Gamma",
+    "Duration": "Minutes",
+    "Action": "Complex",
+    "Modifier": 4,
+    "Description": "Target relieved from an acute stress response or triggered disorder. May not be used on self."
+  },
+  {
+    "Sleight": "Anti-Electronics Field",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "All electronics within Close range lose power."
+  },
+  {
+    "Sleight": "Basilisk Aura",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Incapacitator basilisk hack."
+  },
+  {
+    "Sleight": "Casimir Force Repulsion",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Levitate self or objects."
+  },
+  {
+    "Sleight": "Cryokinesis",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Drains heat around target; DV 4d10 per minute."
+  },
+  {
+    "Sleight": "Decerebration",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Target immobilized, unable to act."
+  },
+  {
+    "Sleight": "Diffusion",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Diffuse light/radio within Close range, reduce range/DV by half."
+  },
+  {
+    "Sleight": "Kenetic Friction",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Increases friction within Close range, halve kinetic DV."
+  },
+  {
+    "Sleight": "Negative Refraction",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Invisibility."
+  },
+  {
+    "Sleight": "Puppeteer",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Control target like jammed drone."
+  },
+  {
+    "Sleight": "Pryokinesis",
+    "Level": "Epsilon",
+    "Duration": "Sustained",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Raises heat around target; DV 1d10 per action turn, pain."
+  },
+  {
+    "Sleight": "Strip Memory",
+    "Level": "Epsilon",
+    "Duration": "Days",
+    "Action": "Complex",
+    "Modifier": "–",
+    "Description": "Removes target memories."
+  }
+]
